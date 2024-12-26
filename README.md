@@ -14,7 +14,7 @@ flexbox properties for responsive design
 Media queries for different screen sizes (tablet, desktop, mobile)
 Adaptive layout for optimal user experience
 
-Time Taken: 1 days
+Time Taken: 1 day
 
 # Main Points
 
